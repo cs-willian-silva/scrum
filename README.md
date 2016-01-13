@@ -48,17 +48,17 @@
 
 > - Curso Scrum 100 lero lero, Frederico de Azevedo Aranha - Site Campus
 
->> [Aula 1](http://www.youtube.com/watch?v=iMS5U0EiGFs)
->> [Aula 2](http://www.youtube.com/watch?v=LKr8-iarpfg)
->> [Aula 3](http://www.youtube.com/watch?v=bwlTR0YDid0)
->> [Aula 4](http://www.youtube.com/watch?v=Hc4ZyziLelA)
->> [Aula 5](http://www.youtube.com/watch?v=3T_2hB79rfA)
->> [Aula 6](http://www.youtube.com/watch?v=nVF4slTO638)
->> [Aula 7](http://www.youtube.com/watch?v=AYeegZfepPc)
->> [Aula 8](http://www.youtube.com/watch?v=BkpATwAubV0)
->> [Aula 9](http://www.youtube.com/watch?v=WvVSnTLQjYg)
->> [Aula 10](http://www.youtube.com/watch?v=coKVbttCfSY)
->> [Aula 11](http://www.youtube.com/watch?v=ywa_y8mj3CA)
+>> [Aula 1](http://www.youtube.com/watch?v=iMS5U0EiGFs) - 
+>> [Aula 2](http://www.youtube.com/watch?v=LKr8-iarpfg) - 
+>> [Aula 3](http://www.youtube.com/watch?v=bwlTR0YDid0) - 
+>> [Aula 4](http://www.youtube.com/watch?v=Hc4ZyziLelA) - 
+>> [Aula 5](http://www.youtube.com/watch?v=3T_2hB79rfA) - 
+>> [Aula 6](http://www.youtube.com/watch?v=nVF4slTO638) - 
+>> [Aula 7](http://www.youtube.com/watch?v=AYeegZfepPc) - 
+>> [Aula 8](http://www.youtube.com/watch?v=BkpATwAubV0) - 
+>> [Aula 9](http://www.youtube.com/watch?v=WvVSnTLQjYg) - 
+>> [Aula 10](http://www.youtube.com/watch?v=coKVbttCfSY) - 
+>> [Aula 11](http://www.youtube.com/watch?v=ywa_y8mj3CA) 
 
 [1]: https://daringfireball.net/projects/markdown/syntax "Daring Fireball"
 [2]: https://help.github.com/articles/github-flavored-markdown/ "Github"
